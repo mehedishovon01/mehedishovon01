@@ -7,6 +7,7 @@
 
 IT L ITERACY
 • Python, Django Framework
+• PHP, Laravel Framework
 • JavaScript, Ajax, jQuery
 • MySQL, PostgreSQL
 • API (Rest API)
