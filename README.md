@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me? Just knock me or mail me
 
-Driven and innovative Software Engineer with a proven track record of contributing to the development and enhancement of dynamic software solutions. To excel my strong analytical abilities for problem-solving, and continuously expand my knowledge.
+Software Engineer with a proven ability to design, develop, and deploy robust software solutions. Possessing a strong foundation in Agile methodologies. Demonstrated ability to quickly learn new technologies and adapt to changes in a fast-paced environment.
 
 ## IT LITERACY
-* Python, Django Framework
-* PHP, Laravel Framework
+* Python(Django Rest Framework & Flask Framework, asyncio)
+* PHP(Laravel Framework)
 * JavaScript(Ajax, jQuery)
 * OOP’s concepts & patterns
 * DBMS(MySQL, SQLite)
