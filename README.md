@@ -14,7 +14,7 @@ Software Engineer with a proven ability to design, develop, and deploy robust so
 * PHP(Laravel Framework)
 * JavaScript(Ajax, jQuery)
 * OOP’s concepts & patterns
-* DBMS(MySQL, SQLite)
+* DBMS(MySQL, SQLite, PosgrSQL)
 * API (Rest API), Third Party APIs
 * SDLC (Agile Model)
 * Debugging
