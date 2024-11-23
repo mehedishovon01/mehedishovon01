@@ -2,12 +2,12 @@
 I’m a passionate learner and developer, constantly seeking to explore and master new technologies. I’m currently diving into cutting-edge tools and frameworks, and I’m excited to share and build new things with the developer community!
 
 ## 🚀 About Me
+As a Software Engineer, I have ability to design, develop, and deploy robust software solutions. Possessing a strong foundation in Agile methodologies. Demonstrated ability to quickly learn new technologies and adapt to changes in a fast-paced environment.
+
 - 🌱 Currently Learning: Exploring technologies like the ELK Stack and Docker to enhance my skill set.
 - 🛠️ Tech Enthusiast: I love keeping up with emerging tools and techniques in the tech world.
 - 💡 Open to Collaboration: Ready to contribute and collaborate on projects with anyone interested in building something impactful!
 - 📫 Reach Out: Feel free to connect with me—just send a message or email, and I'll be happy to chat!
-
-Software Engineer with a proven ability to design, develop, and deploy robust software solutions. Possessing a strong foundation in Agile methodologies. Demonstrated ability to quickly learn new technologies and adapt to changes in a fast-paced environment.
 
 ## IT LITERACY
 * Python(Django Rest Framework & Flask Framework, asyncio)
